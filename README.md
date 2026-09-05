@@ -166,12 +166,13 @@ After completing the cleaning process in Excel, the cleaned dataset was imported
 
 ---
 
-# 📊 Power BI Dashboard
+#  Power BI Dashboard
 
 The final dashboard provides an overview of student performance and explores several factors associated with it.
 
-![Student Performance Dashboard](<img width="1117" height="736" alt="Student_Analysis_Dashboard" src="https://github.com/user-attachments/assets/5d681f7e-b6b0-474a-8d80-2f90aa0f41cd" />
-)
+<img width="1117" height="742" alt="dashboard_student_performance" src="https://github.com/user-attachments/assets/1da2ff1a-63fe-4b2a-bb95-1f1abefdcde1" />
+
+
 
 ---
 
